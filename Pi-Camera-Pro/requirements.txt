@@ -1,0 +1,8 @@
+flask
+flask-httpauth
+picamera2
+opencv-python
+numpy
+psutil
+requests
+werkzeug
